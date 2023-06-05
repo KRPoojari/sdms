@@ -1,4 +1,4 @@
-export class UserDto {
+export class TeacherDto {
     readonly FirstName: string;
     readonly LastName: string;
     readonly subjects: string;
